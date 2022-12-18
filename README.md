@@ -34,6 +34,6 @@ Flutter Developer
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/mustafayildiz12"><img src="https://github-readme-stats.vercel.app/api?username=mustafayildiz12&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=64748b&bg_color=1c1917&hide_border=true&show_icons=true" alt="mustafayildiz12's GitHub stats" /></a>
+<a href="http://www.github.com/mustafayildiz12"><img src="https://github-readme-stats.vercel.app/api?username=mustafayildiz12&show_icons=true&hide=&count_private=true&title_color=84cc16&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true" alt="mustafayildiz12's GitHub stats" /></a>
 
-<a href="http://www.github.com/mustafayildiz12"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=mustafayildiz12&bg_color=1c1917&color=ffffff&line=64748b&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/mustafayildiz12"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=mustafayildiz12&bg_color=1c1917&color=ffffff&line=3382ed&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
