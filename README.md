@@ -23,9 +23,15 @@ Flutter Developer
 
 <p align="left"> <a href="https://www.github.com/mustafayildiz12" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.medium.com/musttafayildiz12" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a></p>
 
-### Badges
+<h3 align="left">🔥   My Stats :</h3>
 
-<b>My GitHub Stats</b>
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
 
 <a href="http://www.github.com/mustafayildiz12"><img src="https://github-readme-stats.vercel.app/api?username=mustafayildiz12&show_icons=true&hide=&count_private=true&title_color=84cc16&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true" alt="mustafayildiz12's GitHub stats" /></a>
 
